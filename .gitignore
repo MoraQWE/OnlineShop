@@ -1,0 +1,84 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.pyvenv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# PyCharm settings
+.idea/
+
+# Local configurations
+*.env
+*.local
+
+# macOS specific files
+.DS_Store
+
+# Log files
+*.log
+
+# Cache files
+*.cache
+*.pytest_cache/
+
+# Test outputs
+coverage/
+*.cover
+*.py,cover
+.hypothesis/
+
+# Pydantic schema cache
+*.pydantic/
+
+# SQLite database files
+*.sqlite3
+
+# Flask/Django local database
+*.db
+*.sqlite
+
+# Celery task results
+celerybeat-schedule
+
+# Static and media files (if applicable, adjust as needed)
+staticfiles/
+media/
+
+# Django stuff:
+*.log
+db.sqlite3
